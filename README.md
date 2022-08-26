@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainendra&label=Profile%20views&color=0e75b6&style=flat" alt="jainendra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainendra" alt="jainendra" /></a> </p>
-
-- 🌱 I’m currently learning **leadership skills,**
+- 🌱 I’m currently learning **leadership skills, java, frontend development (react, nextjs)**
 
 - 💬 Ask me about **Python, Java, Cybersecurity**
 
